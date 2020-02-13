@@ -1,5 +1,5 @@
 
-$$  Guess-The-Number $$
+ # Guess-The-Number 
 
 ## What is *Guess The Number*?  
 
