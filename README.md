@@ -32,20 +32,20 @@ Here are Some of the CSS classes and id's we have styled.
 > `.round-label,`
 > `.guess,`
 > `.guessing-area,`
-> `.guess-title`,
-> `.guess-label`,
-> `.score-label`,
-> `.target-guess`,
-> `.computer-guess`,
->` .human-guess`,
-> `.number-controls`,
-> `.number-controls button[disabled]`,
-> `.left`,
-> `.right`,
-> `.controls`,
-> `.button`,
-> `.input`,
-> `.button[disabled]`,
-> .`instructions`,
-> .`instruction`,
-> `.winning-text`,
+> `.guess-title,`
+> `.guess-label,`
+> `.score-label,`
+> `.target-guess,`
+> `.computer-guess,`
+>` .human-guess,`
+> `.number-controls,`
+> `.number-controls button[disabled],`
+> `.left,`
+> `.right,`
+> `.controls,`
+> `.button,`
+> `.input,`
+> `.button[disabled],`
+> .`instructions,`
+> .`instruction,`
+> `.winning-text,`
