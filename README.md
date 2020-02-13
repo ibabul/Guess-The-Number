@@ -48,4 +48,32 @@ Here are Some of the CSS classes and id's we have styled.
 > `.button[disabled],`
 > .`instructions,`
 > .`instruction,`
-> `.winning-text,`
+> `.winning-text`.
+
+***Id's***
+> `#computer-guess,`
+> `#guess,`
+> `#next-round`.
+
+## `JavaScript`:
+
+for this Game we have used 2 JavaScript file.
+1. `script.js`  
+2. `game.js`
+
+`script.js` :  
+In this file we have created all the logics for game and sets all the rules such as like - 
+
+- Counting Round Number
+- Generating random target number
+- Updating score
+- Declare the winner  
+  & many other
+
+`game.js` :  
+In this file all of our codes DOM to change or to apply the functions created for. Such as -
+- Onclick changes 
+- assigning  variables   
+  & many other
+
+  ## check out my [website](https://www.wpmaestro.net)
