@@ -16,12 +16,21 @@ Like any other game this game follows some logic and rules.This game is about to
 >`JavaScript` 
 
 ## `HTML`  
-1. First we chose a Heading for our page which is showing the name of the game `Guess The Number`
-2. Another `Heading` which is displaying the number of rounds been played.Round number is `span` and given an `id`.
-3. Used `<p>` to display `Target Number` & number is `span` and given an `id`.
-4. Added two(2) players `Name` and their `score` board to record their winnings.
-5. Added two(2) `button`. One is to `increase and decrease` number and another is a kind of submit button which `submits user input`.
-6. Below the page we sets instruction of game.
+- First we chose a Heading for our page which is showing the name of the game `Guess The Number`
+<img src="./images/gtnss.png" /> 
+
+- Another `Heading` which is displaying the number of rounds been played.Round number is `span` and given an `id`.
+<img src="./images/roundss.png" /> 
+
+- Used `<p>` to display `Target Number` & number is `span` and given an `id`.
+- Added two(2) players `Name` and their `score` board to record their winnings.
+<img src="./images/playersss.png" /> 
+
+- Added two(2) `button`. One is to `increase and decrease` number and another is a kind of submit button which `submits user input`.
+- Lastly, there are another button which helps to play another round of match.
+<img src="./images/nextroundss.png" /> 
+
+- Below the page we sets instruction of game.
 
 ## `Css`
 
