@@ -11,9 +11,9 @@ Like any other game this game follows some logic and rules.This game is about to
 
 ## This game build with:
 
->HTML  
->CSS   
->JavaScript 
+>`HTML`  
+>`CSS`   
+>`JavaScript` 
 
 ## `HTML`  
 1. First we chose a header for our page which is showing the name of the game `Guess The Number`
