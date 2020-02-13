@@ -7,8 +7,7 @@ This is a browser game made for fun. This is about to guess a close number of ra
 ## Basic Rule set:
 Like any other game this game follows some logic and rules.This game is about to guess a number which is close to the randomly generated number.
 
-[![](./comss.png)](./images/vid.mp4)
-
+<img src="./images/comss.png" width="400" height="200" />
 ## This game build with:
 
 >HTML  
